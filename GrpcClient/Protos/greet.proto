@@ -1,7 +1,7 @@
 ﻿syntax = "proto3";
 
 //The csharp_namespace needs to be equal to the project name
-option csharp_namespace = "GRPCClient";
+option csharp_namespace = "GrpcClient";
 
 package greet;
 
