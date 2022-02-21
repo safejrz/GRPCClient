@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "WvpKQN9vjuO5tbhNKvScPs9a1ZOq+yngZ29oH+0v0a2B4IN4lzebkoqNFoPldxtId1iuuSuOAOjF1BXqn7IBrw==",
+  "dgSpecHash": "9OioNPKm1jln6BWvX7Kgw1r6gAkGAOwNUhNi8yib1V50UoK/XWgRflI5EjB436l1Dq+GU5uyk6NiFFNoJEEYew==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\gRPCClient.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\GRPCClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ingjr\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\grpc.core.api\\2.42.0\\grpc.core.api.2.42.0.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\grpc.net.client\\2.42.0\\grpc.net.client.2.42.0.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\grpc.net.common\\2.42.0\\grpc.net.common.2.42.0.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\grpc.tools\\2.44.0\\grpc.tools.2.44.0.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\ingjr\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

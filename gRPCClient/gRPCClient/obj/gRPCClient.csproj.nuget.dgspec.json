@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\gRPCClient.csproj": {}
+    "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\GRPCClient.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\gRPCClient.csproj": {
+    "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\GRPCClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\gRPCClient.csproj",
-        "projectName": "gRPCClient",
-        "projectPath": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\gRPCClient.csproj",
+        "projectUniqueName": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\GRPCClient.csproj",
+        "projectName": "GRPCClient",
+        "projectPath": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\GRPCClient.csproj",
         "packagesPath": "C:\\Users\\ingjr\\.nuget\\packages\\",
         "outputPath": "C:\\GitHub\\gRPCClient\\gRPCClient\\gRPCClient\\obj\\",
         "projectStyle": "PackageReference",
@@ -43,6 +43,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.19.4, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.42.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.44.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
