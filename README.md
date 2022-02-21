@@ -1,2 +1,2 @@
 # gRPCClient
-Test how to receive a DataTable from a gRPC Service (Client)
+Test how to receive (Client) a DataTable from a gRPC service (server) after providing an Id
