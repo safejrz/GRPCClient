@@ -13,3 +13,9 @@ C:\GitHub\gRPCClient\gRPCClient\gRPCClient\obj\Debug\net6.0\gRPCClient.dll
 C:\GitHub\gRPCClient\gRPCClient\gRPCClient\obj\Debug\net6.0\ref\gRPCClient.dll
 C:\GitHub\gRPCClient\gRPCClient\gRPCClient\obj\Debug\net6.0\gRPCClient.pdb
 C:\GitHub\gRPCClient\gRPCClient\gRPCClient\obj\Debug\net6.0\gRPCClient.genruntimeconfig.cache
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\gRPCClient\gRPCClient\gRPCClient\obj\Debug\net6.0\GRPCClient.csproj.CopyComplete
