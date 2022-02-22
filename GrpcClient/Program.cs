@@ -14,6 +14,18 @@ try
         var client = new Greeter.GreeterClient(channel);
         var response = await client.SayHelloAsync(new HelloRequest { Name = "World" });
         Console.WriteLine("Greeting: " + response.Message);
+        
+        var rowid = new RowIdRequest()
+        {
+            Id = 1
+        };
+
+        var response2 = await client.GetRowAsync(new RowIdRequest { Id = 1 });
+        Console.WriteLine("DataTableResponse: ");
+        foreach (var s in response2.Value)
+        {
+            Console.WriteLine(s);
+        }
     }
 
     Console.ReadKey();
